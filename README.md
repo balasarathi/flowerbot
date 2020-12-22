@@ -188,10 +188,11 @@ The `__stats__()` function is for retrieving module statistics, eg number of use
 Please read all my responsity 
 ----------------thankyou for all-----------------
 Bye! See you later !
-#by balasarathi, subasri
-##most thank you for
+by balasarathi, subasri
+most thank you for🙏
+
 1.subasri
 2.kavin
-
+3.balasarathi
 
 
